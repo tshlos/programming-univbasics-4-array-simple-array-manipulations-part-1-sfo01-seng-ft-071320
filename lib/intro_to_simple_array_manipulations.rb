@@ -10,7 +10,7 @@ end
 
 
 def using_pop(array)
-  array.pop
+  array.pop()
 end
 
 
@@ -21,7 +21,7 @@ end
 
 
 def using_shift(array)
-  array.shift
+  array.shift()
 end
 
 
