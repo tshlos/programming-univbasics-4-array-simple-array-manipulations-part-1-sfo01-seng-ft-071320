@@ -15,7 +15,8 @@ end
 
 
 def pop_with_args(array)
-  array.pop(2)
+  removed = array.pop(2)
+  removed
 end
 
 
