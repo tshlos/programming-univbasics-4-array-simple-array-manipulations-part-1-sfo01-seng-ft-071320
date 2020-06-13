@@ -1,4 +1,4 @@
-def add_to_end(arr, str) 
-  arr.push(str)
-  arr
+def add_to_end(array, string) 
+  array.push(string)
+  array
 end
