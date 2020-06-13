@@ -26,5 +26,6 @@ end
 
 
 def shift_with_args(array)
-  
+  removed = array.shift(2)
+  removed
 end
